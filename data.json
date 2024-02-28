@@ -1,7 +1,4 @@
-{
-    "status": "200",
-    "message": "OK",
-    "data": [
+[
         {
             "name": "FBLS.anakmamah",
             "ip": "nodata",
@@ -1562,5 +1559,5 @@
             "date": "nodata",
             "from": "nodata"
         }
-    ]
-}
+    }
+]
